@@ -44,6 +44,7 @@ venv
 opentuner.log
 .*.swo
 opentuner.db
+skill_state
 .idea
 
 # SMB ROM (for SMB demo)
